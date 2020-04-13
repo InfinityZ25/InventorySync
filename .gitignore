@@ -7,7 +7,6 @@ pom.xml.next
 .classpath
 .factorypath
 .project
-.settings/
 release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
