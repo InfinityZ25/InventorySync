@@ -8,6 +8,7 @@ pom.xml.next
 .factorypath
 .project
 .settings/
+InventorySync.iml
 release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
