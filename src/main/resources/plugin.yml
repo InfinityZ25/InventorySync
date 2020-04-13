@@ -1,0 +1,5 @@
+main: ${groupId}.InventorySync
+name: ${project.artifactId}
+version: ${project.version}-${timestamp}
+api-version: 1.15
+author: InfinityZ25
